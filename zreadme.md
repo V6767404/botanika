@@ -9,7 +9,7 @@ https://www.figma.com/file/HdU7VTV6uNdHyuvDrffeKC/%D0%9C%D0%B0%D1%80%D0%B0%D1%84
 
 https://l.htmlacademy.ru/zaverstai?utm_source=htmlbook&utm_medium=blog&utm_campaign=zaverstai-090821 
 http://htmlbook.ru/blog/besplatnyy-marafon-po-vyorstke-dlya-novichkov
-marsicat.by 0.hh
+
 
 Чат Марафона https://t.me/joinchat/s-3qmX0hzZtiMjY6	
 Марафон Заверстаю https://t.me/c/1594351401/3	
